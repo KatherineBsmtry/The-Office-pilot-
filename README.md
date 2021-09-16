@@ -1,2 +1,2 @@
 # The Office pilot
- Data visualization for the pilot episode of The Office
+ This repository contains The Office project which includes web scrapping and some visualizations.
